@@ -1,6 +1,6 @@
 // Size of the game area (in px)
-const GAME_AREA_WIDTH = 700;
-const GAME_AREA_HEIGHT = 500;
+const GAME_AREA_WIDTH = 1000;
+const GAME_AREA_HEIGHT = 800;
 
 // Size of the paddles (in px)
 const PADDLE_HEIGHT = 100;
