@@ -1,5 +1,5 @@
 // Size of the game area (in px)
-const GAME_AREA_WIDTH = 1000;
+const GAME_AREA_WIDTH = 900;
 const GAME_AREA_HEIGHT = 800;
 
 // Size of the paddles (in px)
@@ -17,7 +17,7 @@ const computerPaddle = document.querySelector('.computer-paddle');
 const leftPaddle = document.querySelector('.player-paddle');
 computerPaddle.style.borderRadius = '10px'
 leftPaddle.style.borderRadius = '10px'
-leftPaddle.style.backgroundColor = 'lightgreen'
+leftPaddle.style.backgroundColor = 'limegreen'
 
 function handleKeyboardInput (event){
     if (event.key=== 'ArrowDown'){
