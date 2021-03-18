@@ -84,3 +84,13 @@ body {
   white-space: pre-wrap;
 }
 /* $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ */
+
+.center-line {
+  margin-top: 0px;
+  margin-left: 450px;
+  color: gold;
+  width: 1px;
+  font-weight: bolder;
+  word-wrap: break-word;
+  white-space: pre-wrap;
+}
