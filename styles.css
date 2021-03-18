@@ -90,10 +90,12 @@ body {
   margin-bottom: 0px;
   margin-left: 450px;
   color: gold;
-  border: 1px solid gold;
+  border: 3px dotted gold;
   width: 2px;
   height: 808px;
   font-weight: bolder;
   word-wrap: break-word;
   white-space: pre-wrap;
 }
+
+/* $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ */
