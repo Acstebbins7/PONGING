@@ -15,9 +15,9 @@ const  ball = document.querySelector('.ball');
 // Get the computer paddle element
 const computerPaddle = document.querySelector('.computer-paddle');
 const leftPaddle = document.querySelector('.player-paddle');
-computerPaddle.style.borderRadius = '8px'
-leftPaddle.style.borderRadius = '8px'
-leftPaddle.style.backgroundColor = 'purple'
+computerPaddle.style.borderRadius = '10px'
+leftPaddle.style.borderRadius = '10px'
+leftPaddle.style.backgroundColor = 'lightgreen'
 
 function handleKeyboardInput (event){
     if (event.key=== 'ArrowDown'){
