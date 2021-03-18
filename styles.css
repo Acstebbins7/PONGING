@@ -64,6 +64,7 @@ body {
 
 .player-paddle .verticalTextHome {
   width: 1px;
+  font-weight: bolder;
   word-wrap: break-word;
   white-space: pre-wrap;
 }
@@ -78,6 +79,8 @@ body {
 
 .computer-paddle .verticalTextAway {
   width: 1px;
+  font-weight: bolder;
   word-wrap: break-word;
   white-space: pre-wrap;
 }
+/* $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ */
